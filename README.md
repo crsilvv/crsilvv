@@ -1,2 +1,1 @@
-![alt text](https://tryhackme.com/badge/3237878)
-<script src="https://tryhackme.com/badge/3237878"></script>
+![alt text](https://tryhackme-badges.s3.amazonaws.com/cosmosredshift7.png)
