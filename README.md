@@ -1,1 +1,1 @@
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cosmosredshift7.png)](tryhackme.com/p/cosmosredshift7)
+![cosmosredshift7](https://github.com/user-attachments/assets/165d5e90-9f15-4140-9bae-f6732669e165)
