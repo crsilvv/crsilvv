@@ -1,1 +1,1 @@
-![cosmosredshift7](https://github.com/user-attachments/assets/165d5e90-9f15-4140-9bae-f6732669e165)
+![cosmosredshift7](https://github.com/user-attachments/assets/841d8d96-1954-4417-ae40-f4855f9a1237)
